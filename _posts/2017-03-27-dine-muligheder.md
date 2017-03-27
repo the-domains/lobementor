@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Hvis du har specielle ønsker, så finder vi sammen en løsning.'
-dateModified: '2017-03-27T14:31:54.251Z'
-datePublished: '2017-03-27T14:31:54.422Z'
+dateModified: '2017-03-27T16:52:21.226Z'
+datePublished: '2017-03-27T16:52:22.460Z'
 title: Dine muligheder
 author: []
 publisher: {}
@@ -21,4 +21,4 @@ _type: Blurb
 Hvis du har specielle ønsker, så finder vi sammen en løsning.
 [Book din tid her][0]
 
-[0]: http://lobementor.com/booking
+[0]: https://jorgenlarsen.youcanbook.me/
