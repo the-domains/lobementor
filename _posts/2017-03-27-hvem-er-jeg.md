@@ -8,8 +8,8 @@ description: >-
   opbakning til en anden løber. Grunden er, at jeg ikke løber for at slå hverken
   andres eller egne tider, men fordi jeg virkelig godt kan lide at løbe og mærke
   det løbet giver mig af positivitet og glæde.
-dateModified: '2017-03-27T14:31:54.251Z'
-datePublished: '2017-03-27T14:31:54.430Z'
+dateModified: '2017-03-27T18:41:48.914Z'
+datePublished: '2017-03-27T18:41:49.393Z'
 title: Hvem er jeg?
 author: []
 publisher: {}
@@ -20,6 +20,8 @@ datePublishedOriginal: '2017-03-27T14:03:36.234Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bfd3068-7028-476c-b406-295b7b72f40a.jpg)
+
 ## Hvem er jeg?
 
 Mit navn er Jørgen Larsen - jeg er 43 år og bor i Vanløse med mine 2 drenge. Jeg er, af natur, ikke specielt konkurrenceminded, selvom jeg i min karriere har haft en række krævende lederjobs som bl.a. udviklingschef, afdelingschef og adm. direktør. Jeg stiller ikke op til løb med mindre, at jeg er der som opbakning til en anden løber. Grunden er, at jeg ikke løber for at slå hverken andres eller egne tider, men fordi jeg virkelig godt kan lide at løbe og mærke det løbet giver mig af positivitet og glæde.
