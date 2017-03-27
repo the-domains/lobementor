@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Hvis du har specielle ønsker, så finder vi sammen en løsning.'
-dateModified: '2017-03-27T16:52:21.226Z'
-datePublished: '2017-03-27T16:52:22.460Z'
+dateModified: '2017-03-27T18:38:36.470Z'
+datePublished: '2017-03-27T18:38:37.089Z'
 title: Dine muligheder
 author: []
 publisher: {}
@@ -19,6 +19,3 @@ _type: Blurb
 * Klippekort til 5 træningspas (med udgangspunkt i Vanløse): 3.500 kr.
 
 Hvis du har specielle ønsker, så finder vi sammen en løsning.
-[Book din tid her][0]
-
-[0]: https://jorgenlarsen.youcanbook.me/
