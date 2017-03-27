@@ -75,7 +75,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
 purpose:
-  - type: internal
-    label: BOOK EN TID
-    item: daf2629e-cf61-4906-bb3e-3960544c19f0
+  - type: external
+    label: Book en tid
+    url: 'https://jorgenlarsen.youcanbook.me'
 github: true
