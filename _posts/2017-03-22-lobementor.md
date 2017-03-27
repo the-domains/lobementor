@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T14:01:56.184Z'
-datePublished: '2017-03-27T14:01:56.797Z'
+dateModified: '2017-03-27T14:03:13.259Z'
+datePublished: '2017-03-27T14:03:13.979Z'
 title: LØBEMENTOR
 author: []
 publisher: {}
@@ -53,4 +53,4 @@ Hvis du har specielle ønsker, så finder vi sammen en løsning.
 * Stephen Guise med hans mini habits koncept fra bogen "Mini Habits: Smaller Habits, Bigger Results".
 * Stephen Shapiro med hans bog "Goal-free living".
 
-[0]: https://jorgenlarsen.youcanbook.me/
+[0]: http://lobementor.com/booking
