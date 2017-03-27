@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Hvis du har specielle ønsker, så finder vi sammen en løsning.'
-dateModified: '2017-03-27T14:06:56.578Z'
-datePublished: '2017-03-27T14:06:56.728Z'
+dateModified: '2017-03-27T14:10:20.949Z'
+datePublished: '2017-03-27T14:10:21.934Z'
 title: Dine muligheder
 author: []
 publisher: {}
@@ -19,7 +19,6 @@ _type: Blurb
 * Klippekort til 5 træningspas (med udgangspunkt i Vanløse): 3.500 kr.
 
 Hvis du har specielle ønsker, så finder vi sammen en løsning.
-
-[Book din tid her][0].
+[Book din tid her][0]
 
 [0]: http://lobementor.com/booking
