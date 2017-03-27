@@ -76,6 +76,6 @@ content:
 description: ''
 purpose:
   - type: external
-    label: Book en tid
-    url: 'https://jorgenlarsen.youcanbook.me'
+    label: Book en tid!
+    url: 'https://lobementor.youcanbook.me'
 github: true
