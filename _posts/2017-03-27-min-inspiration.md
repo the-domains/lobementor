@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-27T14:04:34.184Z'
-datePublished: '2017-03-27T14:04:34.837Z'
+dateModified: '2017-03-27T14:04:47.183Z'
+datePublished: '2017-03-27T14:04:47.544Z'
 title: Min inspiration
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-27-min-inspiration.md
 starred: false
 datePublishedOriginal: '2017-03-27T14:04:34.837Z'
-sourcePath: _posts/2017-03-27-min-inspiration.md
 _type: Blurb
 
 ---
