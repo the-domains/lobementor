@@ -27,7 +27,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/37433af0-c83f-4685-9611-ce66ca3ebb5d.png
-title: ''
+title: LØBEMENTOR
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -70,7 +70,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
