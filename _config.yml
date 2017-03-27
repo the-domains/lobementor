@@ -54,5 +54,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: ''
-purpose: []
+purpose:
+  - type: internal
+    label: BOOKING
+    item: daf2629e-cf61-4906-bb3e-3960544c19f0
 github: true
