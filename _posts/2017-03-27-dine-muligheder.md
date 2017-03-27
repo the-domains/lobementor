@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Hvis du har specielle ønsker, så finder vi sammen en løsning.'
-dateModified: '2017-03-27T14:04:12.935Z'
-datePublished: '2017-03-27T14:04:13.812Z'
+dateModified: '2017-03-27T14:04:47.183Z'
+datePublished: '2017-03-27T14:04:47.540Z'
 title: Dine muligheder
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-27-dine-muligheder.md
 starred: false
 datePublishedOriginal: '2017-03-27T14:04:13.812Z'
-sourcePath: _posts/2017-03-27-dine-muligheder.md
 _type: Blurb
 
 ---
