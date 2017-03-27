@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-27T14:04:47.183Z'
-datePublished: '2017-03-27T14:04:47.544Z'
+dateModified: '2017-03-27T14:07:01.950Z'
+datePublished: '2017-03-27T14:07:02.089Z'
 title: Min inspiration
 author: []
 publisher: {}
