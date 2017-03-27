@@ -76,7 +76,7 @@ content:
 description: ''
 purpose:
   - type: internal
-    label: BOOKING
+    label: BOOK EN TID
     item: daf2629e-cf61-4906-bb3e-3960544c19f0
   - type: email
     url: 'mailto:jorgen@lobementor.com'
