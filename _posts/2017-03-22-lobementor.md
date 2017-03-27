@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T14:01:08.406Z'
-datePublished: '2017-03-27T14:01:09.045Z'
+dateModified: '2017-03-27T14:01:56.184Z'
+datePublished: '2017-03-27T14:01:56.797Z'
 title: LØBEMENTOR
 author: []
 publisher: {}
@@ -44,7 +44,7 @@ I mine unge dage var jeg en ganske udemærket løber, men var enormt plaget af s
 
 Hvis du har specielle ønsker, så finder vi sammen en løsning.
 
-<a href="https://jorgenlarsen.youcanbook.me/" data-ycbm-modal="true"\><img src="https://youcanbook.me/resources/pics/ycbm-button.png" style="border-style:none; width: 40px; height: 40px;"/\></a\>
+[Book din tid her][0].
 
 ## Min inspiration
 
@@ -52,3 +52,5 @@ Hvis du har specielle ønsker, så finder vi sammen en løsning.
 * Claus Hechmann (træner for flere af landets bedste langdistanceløbere og kendt for bogen "Løb som eliten").
 * Stephen Guise med hans mini habits koncept fra bogen "Mini Habits: Smaller Habits, Bigger Results".
 * Stephen Shapiro med hans bog "Goal-free living".
+
+[0]: https://jorgenlarsen.youcanbook.me/
