@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T14:06:56.578Z'
-datePublished: '2017-03-27T14:06:56.728Z'
-title: LØBEMENTOR
+dateModified: '2017-03-27T14:24:06.469Z'
+datePublished: '2017-03-27T14:24:07.220Z'
+title: LØBEMENTOR - Det jeg kan hjælpe med
 author: []
 publisher: {}
 via: {}
@@ -13,9 +13,7 @@ datePublishedOriginal: '2017-03-27T14:06:18.880Z'
 _type: Blurb
 
 ---
-# LØBEMENTOR
-
-## Det jeg kan hjælpe med
+## LØBEMENTOR - Det jeg kan hjælpe med
 
 Løb skal være en oplevelse, det skal være givende og sjovt.
 
