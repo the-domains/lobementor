@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T20:32:49.495Z'
-datePublished: '2017-03-27T20:32:51.332Z'
+dateModified: '2017-03-27T20:33:53.533Z'
+datePublished: '2017-03-27T20:33:54.118Z'
 title: Det jeg kan hjælpe med
 author: []
 publisher: {}
@@ -29,14 +29,10 @@ Det kan være svært at finde overskuddet til, at få løbet en tur hvis løb se
 
 Løbeture kan være et frirum som giver dig mulighed for at have fokus på dig og din krop, og opnå en pause fra den hektiske hverdag, som mange af os har. Løb, specielt de ture med en varighed over 1 time giver iflg. flere undersøgelser en god effekt imod angst, depression og stress.
 
-⌞
-
-⌜
+⦚
 
 Kort sagt, så er mit fokus, at få dig til, at opleve letheden og glæden ved løb - at muskelmassen stiger, udholdenheden bliver bedre, sindet forbedres og meget mere. Alt dette er sideeffekter, men ikke et direkte mål.
 
-⌞
-
-⌜
+⦚
 
 Målet er, at jeg vil hjælpe dig med, at finde glæden ved løb, så det bliver en fast, positiv del af dit liv.
