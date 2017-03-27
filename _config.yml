@@ -1,0 +1,64 @@
+layout_spectrum: 0.2724242348632416
+typography_spectrum: 0.5806391587759377
+color:
+  brandStrength: 0.7315653488618128
+  lightness: 0.6472167408099343
+  saturation: 0.6972935679489469
+  rhythmicContrast: 0.1936604337089944
+  brandColors:
+    - '#F4D751'
+    - '#DBAA3A'
+    - '#70B9B8'
+    - '#5D6067'
+    - '#77968E'
+logo: null
+name: LØBEMENTOR
+url: 'http://lobementor.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Om Løbementor
+    id: d135c112-cfed-4bc0-8dd8-1e4be89c9065
+    type: content
+  - name: Booking
+    id: daf2629e-cf61-4906-bb3e-3960544c19f0
+    type: content
+  - name: Kontakt
+    id: 0bc3bc96-2374-4253-8885-81b0b9d84f4a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/37433af0-c83f-4685-9611-ce66ca3ebb5d.png
+title: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca61345-98bf-4346-baee-4f68a520527d.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca61345-98bf-4346-baee-4f68a520527d.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: ''
+purpose: []
+github: true
