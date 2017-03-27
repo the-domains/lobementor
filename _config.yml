@@ -22,9 +22,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Om Løbementor
-    id: d135c112-cfed-4bc0-8dd8-1e4be89c9065
-    type: content
   - name: Booking
     id: daf2629e-cf61-4906-bb3e-3960544c19f0
     type: content
