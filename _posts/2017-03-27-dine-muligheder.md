@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Hvis du har specielle ønsker, så finder vi sammen en løsning.'
-dateModified: '2017-03-27T19:35:38.540Z'
-datePublished: '2017-03-27T19:35:39.001Z'
+dateModified: '2017-03-27T20:25:14.772Z'
+datePublished: '2017-03-27T20:25:15.633Z'
 title: Dine muligheder
 author: []
 publisher: {}
@@ -20,6 +20,6 @@ _type: Blurb
 
 Hvis du har specielle ønsker, så finder vi sammen en løsning.
 
--\>[Book en tid][0]
+⊕ [Book en tid][0] ⊕
 
 [0]: https://lobementor.youcanbook.me/
