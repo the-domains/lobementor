@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T20:33:53.533Z'
-datePublished: '2017-03-27T20:33:54.118Z'
+dateModified: '2017-03-27T20:34:00.280Z'
+datePublished: '2017-03-27T20:34:01.027Z'
 title: Det jeg kan hjælpe med
 author: []
 publisher: {}
@@ -17,15 +17,11 @@ _type: Blurb
 
 Løb skal være en oplevelse, det skal være givende og sjovt.
 
-⌞
-
-⌜
+⦚
 
 Det kan være svært at finde overskuddet til, at få løbet en tur hvis løb ses som et "krav" og ikke en positiv del af sit liv. I min rolle som løbementor vil jeg give dig glæden som der findes i løb, og dermed hjælpe dig ud over dørtærsklen, selv når det blæser og regner. Jeg arbejder med det fokus, at løb skal være en oplevelse, givende og sjovt. Det betyder f.eks. at vi løber langsomt, men i forholdsvis lang tid, så vi opbygger din udholdenhed, din styrke og ikke mindst, giver kroppen lyst til at løbe.
 
-⌞
-
-⌜
+⦚
 
 Løbeture kan være et frirum som giver dig mulighed for at have fokus på dig og din krop, og opnå en pause fra den hektiske hverdag, som mange af os har. Løb, specielt de ture med en varighed over 1 time giver iflg. flere undersøgelser en god effekt imod angst, depression og stress.
 
