@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Løb skal være en oplevelse, det skal være givende og sjovt.'
-dateModified: '2017-03-27T14:06:18.418Z'
-datePublished: '2017-03-27T14:06:18.880Z'
+dateModified: '2017-03-27T14:06:56.578Z'
+datePublished: '2017-03-27T14:06:56.728Z'
 title: LØBEMENTOR
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-27-lobementor.md
 starred: false
 datePublishedOriginal: '2017-03-27T14:06:18.880Z'
-sourcePath: _posts/2017-03-27-lobementor.md
 _type: Blurb
 
 ---
