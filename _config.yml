@@ -1,16 +1,16 @@
-layout_spectrum: 0.9004973406788184
-typography_spectrum: 0.6564463901545594
+layout_spectrum: 0.0841520263340398
+typography_spectrum: 0.7697505953785327
 color:
-  brandStrength: 0.07140943619570152
-  lightness: 0.605822848305014
-  saturation: 0.6797486249120482
-  rhythmicContrast: 0.6126695983770238
+  brandStrength: 0.1772182144826776
+  lightness: 0.5368075394068873
+  saturation: 0.872879062748173
+  rhythmicContrast: 0.8524248587571563
   brandColors:
-    - '#F9D860'
-    - '#E3AD3E'
-    - '#5DB8B8'
-    - '#5C6066'
-    - '#D55B3C'
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
 logo: null
 name: LØBEMENTOR
 url: 'http://lobementor.com'
