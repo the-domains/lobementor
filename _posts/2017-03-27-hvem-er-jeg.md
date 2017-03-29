@@ -8,8 +8,8 @@ description: >-
   opbakning til en anden løber. Grunden er, at jeg ikke løber for at slå hverken
   andres eller egne tider, men fordi jeg virkelig godt kan lide at løbe og mærke
   det løbet giver mig af positivitet og glæde.
-dateModified: '2017-03-29T15:53:38.211Z'
-datePublished: '2017-03-29T15:53:38.525Z'
+dateModified: '2017-03-29T15:53:37.198Z'
+datePublished: '2017-03-29T15:53:37.659Z'
 title: Hvem er jeg?
 author: []
 publisher: {}
