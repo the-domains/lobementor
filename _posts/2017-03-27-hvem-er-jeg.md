@@ -8,23 +8,26 @@ description: >-
   opbakning til en anden løber. Grunden er, at jeg ikke løber for at slå hverken
   andres eller egne tider, men fordi jeg virkelig godt kan lide at løbe og mærke
   det løbet giver mig af positivitet og glæde.
-dateModified: '2017-03-29T15:11:23.494Z'
-datePublished: '2017-03-29T15:11:23.946Z'
+dateModified: '2017-03-29T15:53:38.211Z'
+datePublished: '2017-03-29T15:53:38.525Z'
 title: Hvem er jeg?
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-27-hvem-er-jeg.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-27T14:03:36.234Z'
-_type: Blurb
+url: hvem-er-jeg/index.html
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bfd3068-7028-476c-b406-295b7b72f40a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f75a6ec4-50be-4637-96e6-e6cc4e1093bd.jpg)
 
 ## Hvem er jeg?
 
 Mit navn er Jørgen Larsen - jeg er 43 år og bor i Vanløse med mine 2 drenge. Jeg er, af natur, ikke specielt konkurrenceminded, selvom jeg i min karriere har haft en række krævende lederjobs som bl.a. udviklingschef, afdelingschef og adm. direktør. Jeg stiller ikke op til løb med mindre, at jeg er der som opbakning til en anden løber. Grunden er, at jeg ikke løber for at slå hverken andres eller egne tider, men fordi jeg virkelig godt kan lide at løbe og mærke det løbet giver mig af positivitet og glæde.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af729c99-4c7b-4853-91a5-16163b12f656.jpg)
 
 **Men hvordan havnede jeg med sådan en attitude?**
 
